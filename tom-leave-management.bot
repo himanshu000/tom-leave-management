@@ -47,6 +47,16 @@
       "serviceName": "tom-leave-managementb3rn35",
       "type": "appInsights",
       "id": "5"
+    },
+    {
+      "type": "luis",
+      "name": "tom-leave-management-luis",
+      "appId": "af724dec-a311-43d6-a558-8c4211f37987",
+      "version": "0.1",
+      "authoringKey": "671af16a7715413ca932b8cef771501c",
+      "subscriptionKey": "671af16a7715413ca932b8cef771501c",
+      "region": "westus",
+      "id": "6"
     }
   ]
 }
