@@ -1,0 +1,52 @@
+{
+  "name": "tom-leave-management",
+  "padlock": "b4qH0ThpGilz5XFKflPuVw==!gAMlQlJcVekA0N5bpCcSbAjf6Wq0fGuyxs9nodzzYfWCxu3hgLz5YFug/MBT2Dm9",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "a45fe71a-f480-4e42-ad5e-aff33165aa35",
+      "subscriptionId": "5285b67b-9bb2-49f9-97ca-679171a66f65",
+      "resourceGroup": "marcus-bot",
+      "serviceName": "tom-leave-management",
+      "type": "abs",
+      "name": "tom-leave-management",
+      "id": "1"
+    },
+    {
+      "connectionString": "IHrlv6BCqxNnPQMZq5r6+w==!QMxI/6mbyUNXb17RHpom5EKk/19qK/TeLGSLN27EuyVkUMo2BBtwOS9VW2uPcWKTX+l80fZh8LEDXVxj5QH1y4Rj//7Fg1Gav4xFuArQcBwA+2evMr0HoFTssLkKbrYN258RO1urSeUANUHhXvbHW1z2eitLrRaU3zjnpB2FuL31jBklkwvM3QdEP7mtpAIRMXmI+wIx8WH66dXGNCkb/uuhBKwC/zQajaVfDkQh4yM=",
+      "tenantId": "a45fe71a-f480-4e42-ad5e-aff33165aa35",
+      "subscriptionId": "5285b67b-9bb2-49f9-97ca-679171a66f65",
+      "resourceGroup": "marcus-bot",
+      "serviceName": "tomleavemanagement9de1",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "6ddc1cc5-d5dd-426a-9a50-6663f7e70ca4",
+      "appPassword": "4o8/tshH9f0E7mhNVZTh9w==!6tTAdvlnoVNsNEU8wH0PAEUpgARdBcO8THQLJbdqidM=",
+      "endpoint": "https://tom-leave-management.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "ghgWkAgn1gwOu+X7vf3+bw==!Sj2DhHHyEQtGu0HWe9GXQf6sDN8ibrSTrJTKAdJXS2r20jqy5THSE4s7LNkDV91i",
+      "applicationId": "92f87b21-d204-4305-bff8-79cf71b2f8ad",
+      "apiKeys": {},
+      "tenantId": "a45fe71a-f480-4e42-ad5e-aff33165aa35",
+      "subscriptionId": "5285b67b-9bb2-49f9-97ca-679171a66f65",
+      "resourceGroup": "marcus-bot",
+      "serviceName": "tom-leave-managementb3rn35",
+      "type": "appInsights",
+      "id": "5"
+    }
+  ]
+}
