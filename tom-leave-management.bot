@@ -24,7 +24,7 @@
     {
       "appId": "",
       "appPassword": "",
-      "endpoint": "http://localhost:3978/api/messages",
+      "endpoint": "https://tom-leave-management.azurewebsites.net/api/messages",
       "type": "endpoint",
       "name": "development",
       "id": "3"
